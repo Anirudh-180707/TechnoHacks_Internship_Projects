@@ -2,17 +2,17 @@
 
 ## Overview
 
-This project is a responsive personal portfolio website developed as part of the **TechnoHacks Web Development Internship**. The website presents personal information, technical skills, and project highlights in a clean and user-friendly interface.
+This project is a responsive personal portfolio website developed as part of the **TechnoHacks Web Development Internship**. The website showcases my profile, skills, projects, and contact information using a clean, modern, and responsive design built with HTML and CSS.
 
 ## Features
 
-* Responsive design for desktop and mobile devices
-* Home/Hero section
-* About Me section
+* Responsive and mobile-friendly design
+* Home page with an introduction
+* About Me page
+* Contact page
+* Project showcase
 * Skills section
-* Projects showcase
-* Contact section
-* Smooth and modern user interface using HTML and CSS
+* Modern UI with hover effects and smooth layout
 
 ## Technologies Used
 
@@ -24,10 +24,9 @@ This project is a responsive personal portfolio website developed as part of the
 ```
 Task1_Personal_Portfolio/
 │── index.html
+│── about.html
+│── contact.html
 │── style.css
-│── assets/
-│   ├── images/
-│   └── icons/
 └── README.md
 ```
 
@@ -37,20 +36,26 @@ Task1_Personal_Portfolio/
 2. Open the **Task1_Personal_Portfolio** folder.
 3. Open `index.html` in any modern web browser.
 
+## Pages
+
+* **index.html** – Home page featuring the portfolio overview, skills, and project highlights.
+* **about.html** – Contains personal information, educational background, and career objectives.
+* **contact.html** – Displays contact details for communication.
+* **style.css** – Provides styling, responsive layouts, and visual enhancements for all pages.
+
 ## Learning Outcomes
 
-* Creating semantic HTML page structures
-* Building responsive layouts using CSS
-* Designing a modern portfolio interface
-* Organizing web content into meaningful sections
+* Building multi-page websites using HTML
+* Creating responsive layouts with CSS
+* Organizing website content effectively
+* Designing a clean and user-friendly interface
 
 ## Future Improvements
 
-* Add JavaScript for enhanced interactivity
-* Include a downloadable resume
-* Add project filtering
-* Integrate a working contact form
-* Deploy using GitHub Pages or Netlify
+* Add JavaScript for enhanced interactivity.
+* Integrate a functional contact form.
+* Include project filtering and animations.
+* Deploy the website using GitHub Pages or Netlify.
 
 ## Author
 
